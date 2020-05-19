@@ -16,4 +16,6 @@ In the Waterfall Chart, it is calculated at the start of the test until just bef
 
 Some ways to improve the TTFB include: optimizing application code, implementing caching, fine-tuning your web server configuration, or upgrading server hardware.
 
+# Web Performance for the People
+[Web Performance for the People](https://medium.com/insider-inc-engineering/web-performance-for-the-people-685063644906)
 
