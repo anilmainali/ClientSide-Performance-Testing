@@ -22,6 +22,8 @@ Some ways to improve the TTFB include: optimizing application code, implementing
 
 # Website Performance Optimization
 
+http://stevesouders.com/
+
 https://dzone.com/articles/client-side-performance-testing
 
 https://blog.qasource.com/client-side-performance-testing
