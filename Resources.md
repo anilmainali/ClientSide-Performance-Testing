@@ -23,6 +23,10 @@ Some ways to improve the TTFB include: optimizing application code, implementing
 # Website Performance Optimization
 
 http://stevesouders.com/
+
+https://www.youtube.com/results?search_query=Steve+Souders
+
+[Workshop: High Performance Web Sites w/ Steve Souders of Google](https://www.youtube.com/watch?v=iaOhgeCIj0w)
 [Google I/O 2009 - Even Faster Websites](https://www.youtube.com/watch?feature=player_embedded&v=aJGC0JSlpPE)
 
 https://dzone.com/articles/client-side-performance-testing
